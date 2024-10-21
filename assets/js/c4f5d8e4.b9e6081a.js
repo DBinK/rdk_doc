@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrdk_doc=self.webpackChunkrdk_doc||[]).push([[2634],{30192:(c,u,e)=>{e.r(u),e.d(u,{default:()=>n});var s=e(96540),d=e(56347);const n=function(){const c=(0,d.W6)();return(0,s.useEffect)((()=>{c.push("/rdk_doc/RDK")}),[c]),null}}}]);
