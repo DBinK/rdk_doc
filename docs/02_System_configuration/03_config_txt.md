@@ -248,7 +248,7 @@ gpio=6=op,dl,pu
 
 :::info 注意
 
-仅RDK Modelu支持本项配置。
+仅RDK Module支持本项配置。
 
 :::
 
